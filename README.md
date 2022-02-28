@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ejorsantos@gmail.com**
 
-- ⚡ Fun fact **I studied computer and music**
+- ⚡ Fun fact **I studied music too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
