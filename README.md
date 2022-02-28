@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eduardo Santos</h1>
-- 💬 Ask me about anything, I am happy to Help
+<h3 align="center">I'm 22 years old and I live in Porto, Portugal.</h3>
+
+- 💬 Ask me about **ask me about anything, i am happy to help;**
 
 - 📫 How to reach me **ejorsantos@gmail.com**
 
-- ⚡ Fun fact **I studied music too**
+- ⚡ Fun fact **I studied computer and music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
