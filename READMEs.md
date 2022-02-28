@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Santos</h1>
-- 💬 Ask me about **ask me about anything, i am happy to help;**
+- 💬 Ask me about anything, I am happy to Help
 
 - 📫 How to reach me **ejorsantos@gmail.com**
 
